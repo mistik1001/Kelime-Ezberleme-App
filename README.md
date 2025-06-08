@@ -1,19 +1,3 @@
 Kelime-Ezberleme-App
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mustafa YÜKSEL
-SuperHubber3
-@2025
+Mustafa YÜKSEL  SuperHubber3
